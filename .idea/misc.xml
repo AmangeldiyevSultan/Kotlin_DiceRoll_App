@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/flutter/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.117" />
         <entry key="..\:/flutter/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/flutter/MyApplication/kotlin_dicerollApp/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/flutter/MyApplication/kotlin_dicerollApp/src/main/res/layout/activity_main.xml" value="0.1334853090172239" />
       </map>
     </option>
   </component>
